@@ -1,4 +1,11 @@
-# Getting Started with Create React App
+# Getting Started with  React-Etirvin App
+
+React-Etirvin is UI component library for react built using styled-components.
+
+Components Included :
+
+  NavBar - Responsive Navbar with burger menu for mobile view
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
