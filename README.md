@@ -43,7 +43,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 - Clone and Run the Project locally
 
-#### `git clone https://github.com/antoprince001/react-etirvin/`
+#### `git clone https://github.com/antoprince001/react-etirvin.git`
 
 In the project directory, you can run:
 
