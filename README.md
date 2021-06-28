@@ -71,6 +71,13 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
  #### `git push origin <ComponentName-username>`
  
  
+
+## License
+
+MIT License
+
+Copyright (c) 2021 Antony Prince
+ 
  
  
 
