@@ -1,10 +1,9 @@
 import React from 'react';
 
-
 const Sample = () => {
   return (
     <div>
-        <h1>Hello NavBar !</h1>
+        <h1>React Etirvin !</h1>
     </div>
   );
 };
