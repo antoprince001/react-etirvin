@@ -30,7 +30,7 @@ Components Included :
   ![image](https://user-images.githubusercontent.com/47826916/123645486-02b93500-d844-11eb-8995-f279b254e079.png)
 
   
-  <b>Table</b> 
+  ## <b>Table</b> 
   
   ![image](https://user-images.githubusercontent.com/47826916/123645940-64799f00-d844-11eb-9da0-8b785a438c7a.png)
 
@@ -39,19 +39,47 @@ Components Included :
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
-
-
 ## Wish to Contribute ?
 
-### `git clone https://github.com/antoprince001/react-etirvin/`
+- Clone and Run the Project locally
 
+#### `git clone https://github.com/antoprince001/react-etirvin/`
 
 In the project directory, you can run:
 
-### `npm start`
+#### `npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+- Add or Update Components in `src/components` folder
+
+- Create new commit
+
+ #### `git add .`
+ 
+ #### `git commit <ComponentName> Added`
+
+- Create and checkout to new branch
+
+ #### `git branch <ComponentName-username>`
+ 
+ #### `git checkout <ComponentName-username>`
+ 
+ - Make new Pull Request by pushing new branch to repository
+
+ #### `git push origin <ComponentName-username>`
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
 
 
 
