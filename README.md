@@ -1,15 +1,50 @@
-# Getting Started with  React-Etirvin App
 
-React-Etirvin is UI component library for react built using styled-components.
+![Screenshot 2021-06-28 at 18-55-49 React Etirvin](https://user-images.githubusercontent.com/47826916/123644479-0b5d3b80-d843-11eb-8375-5ea7bcc1d338.png)
+
+<i>Under Development ⚙️</i>
 
 Components Included :
 
-  NavBar - Responsive Navbar with burger menu for mobile view
+  ## <b>Accordion</b> 
+  
+  ![image](https://user-images.githubusercontent.com/47826916/123645174-b968e580-d843-11eb-88f4-354d81b24008.png)
+  
+  ## <b>Card</b> 
+  
+  ![image](https://user-images.githubusercontent.com/47826916/123645709-2f6d4c80-d844-11eb-86b0-c324ed7ebec3.png)
+  
+  ## <b>Dropdown</b> 
+  
+  ## <b>NavBar</b> 
+  
+  ![image](https://user-images.githubusercontent.com/47826916/123645418-f503af80-d843-11eb-8d99-96008a6c0b1d.png)
+
+  
+  ## <b>Progress Bar</b> 
+  
+  ![image](https://user-images.githubusercontent.com/47826916/123645378-ea491a80-d843-11eb-8992-a3c70d4cc0a7.png)
+
+  
+  ## <b>Spinner</b> 
+  
+  ![image](https://user-images.githubusercontent.com/47826916/123645486-02b93500-d844-11eb-8995-f279b254e079.png)
+
+  
+  <b>Table</b> 
+  
+  ![image](https://user-images.githubusercontent.com/47826916/123645940-64799f00-d844-11eb-9da0-8b785a438c7a.png)
+
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+
+
+
+## Wish to Contribute ?
+
+### `git clone https://github.com/antoprince001/react-etirvin/`
+
 
 In the project directory, you can run:
 
@@ -18,60 +53,8 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
