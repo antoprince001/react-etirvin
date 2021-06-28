@@ -1,0 +1,29 @@
+.card {
+    background: #fff;
+    border : none;
+    box-shadow: 2px 2px 6px 0px rgba(0,0,0,0.3);
+    border-radius: 20px;
+    text-align: center;
+    width : 300px;
+    height : 300px;
+    transition : transform .3s;
+  }
+  .card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+  .cardImg {
+    width: 100%;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    height : 55%;
+  }
+  .cardHead {
+    padding: 0 20px 20px;
+    text-transform: uppercase;
+    color :#000;
+  }
+  .cardBody {
+    padding: 0 20px 20px;
+    color :#000;  
+
+  }
