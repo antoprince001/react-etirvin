@@ -4,7 +4,7 @@ import PropTypes from "prop-types";
 
 const AccordionStyle = styled.div`
   .accordion {
-    max-width: 600px;
+    max-width: 400px;
     margin: 2rem auto;
   }
 
@@ -15,6 +15,7 @@ const AccordionStyle = styled.div`
     cursor: pointer;
     background-color: #21aeca;
     border-radius: 10px;
+    font-size: 16px;
   }
 
   .accordion-title:hover {
@@ -24,7 +25,8 @@ const AccordionStyle = styled.div`
 
   .accordion-title,
   .accordion-content {
-    padding: 1rem;
+    padding: 14px;
+    font-size: 16px;
   }
 
   .accordion-content {
