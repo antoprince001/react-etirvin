@@ -45,7 +45,7 @@ function App() {
         <br></br>
         <hr></hr>
 
-        <p>ordered List</p>
+        <p>Ordered List</p>
         <Orderedlist title="list" content="your list"></Orderedlist>
         <br></br>
         <hr></hr>
