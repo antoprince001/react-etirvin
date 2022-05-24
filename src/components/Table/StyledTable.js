@@ -1,11 +1,12 @@
-import styled from 'styled-components';
+import styled from "styled-components";
 
 export const StyledTable = styled.table`
-    border: 1px solid #fff;    
+  border: 1px solid #fff;
 `;
 
 export const THead = styled.thead`
-    border: 1px solid #fff;
+  border: 1px solid #fff;
+  color: white;
 `;
 
 export const TFoot = styled.tfoot`
@@ -13,7 +14,7 @@ export const TFoot = styled.tfoot`
 `;
 
 export const TBody = styled.tbody`
- // custom css goes here
+  // custom css goes here
 `;
 
 export const TR = styled.tr`
@@ -25,5 +26,5 @@ export const TH = styled.th`
 `;
 
 export const TD = styled.td`
-    border: 1px solid #fff;
+  border: 1px solid #fff;
 `;
