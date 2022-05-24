@@ -6,8 +6,8 @@ const HoverDropdownStyle = styled.div`
   .dropbtn {
     background-color: #04aa6d;
     color: white;
-    padding: 16px;
-    font-size: 16px;
+    padding: 12px;
+    font-size: 14px;
     border: none;
     border-radius: 10px;
   }
@@ -22,7 +22,7 @@ const HoverDropdownStyle = styled.div`
     display: none;
     position: absolute;
     background-color: #f1f1f1;
-    min-width: 160px;
+    min-width: 120px;
     box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
     z-index: 1;
     border-radius: 10px;
@@ -31,10 +31,11 @@ const HoverDropdownStyle = styled.div`
   /* Links inside the dropdown */
   .dropdown-content a {
     color: black;
-    padding: 12px 16px;
+    padding: 10px 14px;
     text-decoration: none;
     display: block;
     border-radius: 10px;
+    font-size: 16px;
   }
 
   /* Change color of dropdown links on hover */
